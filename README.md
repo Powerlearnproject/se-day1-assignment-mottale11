@@ -9,6 +9,7 @@ Software engineering is the systematic use of engineering ideas, methods, and to
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1. Development of programming languages-The evolution of programming languages marked a significant shift from machine language to high-level, human-readable code, enabling programmers to write code independent of hardware and improving software system manageability and scalability.
 2. Establishment of software engineering as a discipline- Software engineering emerged as a discipline in the 1960s and 1970s, responding to the software crisis. It developed methodologies like structured programming, waterfall model, and CMMI, and professional societies established standards.
 3. The rise of agile methodologies- Agile methodologies, originating in the early 2000s, emphasize flexibility, adaptability, and customer collaboration over traditional methods. They focus on iterative, incremental development, influencing project management and organizational culture.
