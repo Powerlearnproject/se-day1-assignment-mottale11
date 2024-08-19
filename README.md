@@ -48,10 +48,10 @@ Prompt engineering about designing questions or suggestions that generate the mo
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague Prompt
+Vague Prompt:
 Describe a nice day.
 
-Improved Prompt
+Improved Prompt:
 Describe a sunny spring day in a small town, focusing on the sights, sounds, and activities of people in the park.
 
 The improved prompt is more effective because it provides clear, specific, and concise details, guiding the respondent to focus on a particular setting (a sunny spring day in a small town), sensory elements (sights and sounds), and specific activities (people in the park). This clarity helps ensure that the response is targeted and relevant, yielding a more vivid and coherent description.
